@@ -4,7 +4,7 @@ import pandas as pd
 from nubankadicionar import meubanco_
 
 st.set_page_config(layout="wide")
-url_projeto = "https://financas-casal-jjku.onrender.com"
+url_projeto = "https://financas-casal-jjku.onrender.com/adicionar-gastos"
 
 try:
     with st.sidebar:
